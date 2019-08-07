@@ -1,6 +1,6 @@
 # Memory Allocator Simulator
 
-## Informations
+## Information
 
 Student project in first year at the engineering school [ESIR](https://esir.univ-rennes1.fr/)
 
